@@ -87,7 +87,7 @@ service docker start
 open --background -a Docker
 ```
 
-<img src="./Screenshot 2023-05-27 at 2.41.44 PM.png" alt="Screenshot 2023-05-27 at 2.41.44 PM" style="zoom:33%;" />
+<img src="./Screenshot 2023-05-27 at 2.41.44 PM.png" alt="Screenshot 2023-05-27 at 2.41.44 PM" style="zoom:20%;" />
 
 ### Docker compose
 
