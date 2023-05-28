@@ -366,7 +366,7 @@ REPOSITORY          TAG                 IMAGE ID            CREATED             
 
 In this section, we'll explore how to run a web application within a Docker container. We'll learn how to pull an existing Docker image, start a container, and access the web application running inside it.
 
-***To take your Docker skills to the next level, consider diving into the fascinating intersection of offensive security testing and Docker containers. My upcoming article, "Enhancing Offensive Security Testing with Docker Containers," explores how Docker containers provide secure testing environments, facilitate configuration testing, exploit simulation, and even malware analysis. Stay tuned for this exclusive piece that explores the powerful relationship between Docker and offensive security testing.***
+***To take your Docker skills to the next level, consider diving into the fascinating intersection of offensive security testing and Docker containers. My upcoming article, "Empowering Security Testing: Harnessing the Power of Docker Containers for Offensive Security", exploring how Docker containers provide secure testing environments, facilitate configuration testing, exploit simulation, and even malware analysis. Stay tuned for this exclusive piece that explores the powerful relationship between Docker and offensive security testing.***
 
 To access a Docker container, regardless of whether it contains a web app, an operating system, a database, or any other application, there are multiple ways you can establish connectivity. Here are some common methods:
 
@@ -653,8 +653,6 @@ Additionally, I will cover another article that focuses on mastering Docker netw
 - [Docker’s documentation](https://docs.docker.com/) is comprehensive and very helpful.
 - You can find lots of Docker cheat sheets online, like [github.com/wsargent/docker-cheat-sheet](https://github.com/wsargent/docker-cheat-sheet) and [devhints.io/docker](https://devhints.io/docker).
 - [Awesome Docker](https://github.com/veggiemonk/awesome-docker) is a curated list of Docker resources and projects.
-
-We hope you enjoyed this tutorial on Docker and, if you have any questions or comments, please join the forum discussion below!
 
 ### Conclusion
 
